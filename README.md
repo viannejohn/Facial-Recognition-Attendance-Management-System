@@ -1,37 +1,62 @@
 # Facial-Recognition-Attendance-Management-System
 
 What is facial recognition?
+
+
 A face analyzer is software that identifies or confirms a person's identity using their face. It works by identifying and measuring facial features in an image. Facial recognition can identify human faces in images or videos, determine if the face in two images belongs to the same person, or search for a face among a large collection of existing images. Biometric security systems use facial recognition to uniquely identify individuals during user onboarding or logins as well as strengthen user authentication activity. Mobile and personal devices also commonly use face analyzer technology for device security.
+
+
 What are the benefits of facial recognition technology?
+
+
 Some benefits of face recognition systems are as follows:
 Efficient security
 Facial recognition is a quick and efficient verification system. It is faster and more convenient compared to other biometric technologies like fingerprints or retina scans. There are also fewer touchpoints in facial recognition compared to entering passwords or PINs. It supports multifactor authentication for additional security verification.
+
 Improved accuracy
 Facial recognition is a more accurate way to identify individuals than simply using a mobile number, email address, mailing address, or IP address. For example, most exchange services, from stocks to cryptos, now rely on facial recognition to protect customers and their assets.
+
 Easier integration
 Face recognition technology is compatible and integrates easily with most security software. For example, smartphones with front-facing cameras have built-in support for facial recognition algorithms or software code.
+
+
 What are the use cases of facial recognition systems?
+
+
 The following are some practical applications of a face recognition system:
+
 Fraud detection
 Companies use facial recognition to uniquely identify users creating a new account on an online platform. After this is done, facial recognition can be used to verify the identity of the actual person using the account in case of risky or suspicious account activity.
+
 Cyber security
 Companies use facial recognition technology instead of passwords to strengthen cybersecurity measures. It is challenging to gain unauthorized access into facial recognition systems, as nothing can be changed about your face. Face recognition software is also a convenient and highly accurate security tool for unlocking smartphones and other personal devices.
+
 Airport and border control
 Many airports use biometric data as passports, allowing travellers to skip long lines and walk through an automated terminal to reach their gate faster. Face recognition technology in the form of e-Passports reduces wait times and improves security.
+
 Banking
 Individuals authenticate transactions by simply looking at their phone or computer instead of using one-time passwords or two-step verification. Facial recognition is safer as there are no passwords for hackers to compromise. Similarly, some ATM cash withdrawals and checkout registers can use facial recognition for approving payments.
+
 Healthcare
 Facial recognition can be used to gain access to patient records. It can streamline the patient registration process in a healthcare facility and autodetect pain and emotion in patients.
+
+
 How does facial recognition work?
+
+
 Facial recognition works in three steps: detection, analysis, and recognition.
+
 Detection
 Detection is the process of finding a face in an image. Enabled by computer vision, facial recognition can detect and identify individual faces from an image containing one or many people's faces. It can detect facial data in both front and side face profiles.
+
 Computer vision
 Machines use computer vision to identify people, places, and things in images with accuracy at or above human levels and with much greater speed and efficiency. Using complex artificial intelligence (AI) technology, computer vision automates extraction, analysis, classification, and understanding of useful information from image data. The image data takes many forms, such as the following:
 •	Single images
 •	Video sequences
 •	Views from multiple cameras
 •	Three-dimensional data
+
+
 Analysis
 The facial recognition system then analyzes the image of the face. It maps and reads face geometry and facial expressions. It identifies facial landmarks that are key to distinguishing a face from other objects. The facial recognition technology typically looks for the following:
  
